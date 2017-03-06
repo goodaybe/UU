@@ -52,4 +52,5 @@
 - https://github.com/mrdoob/three.js/
 - https://github.com/x3dom/x3dom
 - https://www.khronos.org/webcl/
+- https://github.com/mar10/fancytree
 
