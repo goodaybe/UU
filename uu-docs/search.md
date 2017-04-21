@@ -37,6 +37,13 @@
 
 
 ## histroy
+
+
+### 2017-04-21
+- ES6
+    -   https://github.com/lukehoban/es6features#readme
+
+
 ### 2017-03-06
 - 신입 UI 디자이너를 위한 'UI 가이드라인 바로 배우기' 지침서
     -  http://story.pxd.co.kr/1063
