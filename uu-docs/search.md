@@ -39,6 +39,10 @@
 ## histroy
 
 
+### 2017-04-28
+
+- scala.js
+ - https://www.scala-js.org/
 ### 2017-04-21
 - ES6
     -   https://github.com/lukehoban/es6features#readme
