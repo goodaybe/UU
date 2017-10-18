@@ -1,22 +1,27 @@
-##
-vue.js를 이용하여 sample 웹 작업을 진행 하여 본다.
-
-이유
-이것을 하는 이유는 vue의 가능성을 파악하기 위함이다.
-
-1. vue.js 기본 기능 파악
-2. ui control과 유기적인 사용 방법 파악
+다음을 이용하여 시작 포인트로 삽는다.
+https://vuejs-templates.github.io/webpack/
 
 
-ui 컨트롤
-jquery ui
-matril의 기타 구현물을들 파악해 본다.
-그리고 위해 자료 수집을 하여 본다.
+build 방법
+
+npm install -g vue-cli
+vue init webpack my-project
+cd my-project
+npm install
+ npm install vue-material --save // 로컬에 모듈을 로드 한다라는 의미
+npm run dev
+
+그리고
+main.js에 다음을 추가 후.
+
+import VueMaterial from 'vue-material'
+import 'vue-material/dist/vue-material.css'
+...
+
+Vue.use(VueMaterial)
+....
 
 
-목표
-vue를 파악하기 위하여 좋은 방법이 무엇일까?
 
-구체적인 목표
-계획
-구현물
+-----------------
+pakcage.json에 정리 해야 함.
